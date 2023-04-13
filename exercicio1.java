@@ -3,6 +3,10 @@ import java.util.Scanner;
 class Main {
   
   public static void main(String[] args) {
+    /*
+    FAÇA UM PROGRAMA QUE ELE LEIA A IDADE DO USUÁRIO E MOSTRE ELA EM DIAS
+    (Ex: 3 anos, 2 meses e 15 dias = 1170 dias.)
+    */
     
     Scanner sc = new Scanner(System.in);    
         
