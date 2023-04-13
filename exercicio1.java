@@ -7,12 +7,20 @@ class Main {
     Scanner sc = new Scanner(System.in);    
         
         System.out.println("Quantos anos voce tem? ");
-        int valor = sc.nextInt();
+        int anos = sc.nextInt();
+
+        System.out.println("Quantos meses? ");
+        int meses = sc.nextInt();
+
+        System.out.println("Quantos dias? ");
+        int dias = sc.nextInt();
         
-        int meses = valor * 12;
-        int dias = valor * 365;
-        System.out.println("Voce tem: " + System.lineSeparator()
-                    + meses + " Meses de vida" +  System.lineSeparator()
-                    + dias + " Dias de vida " );   
+        int total = (((anos*365) + meses*30) + dias);
+    
+        System.out.println(System.lineSeparator() 
+                    + anos + " Anos " + System.lineSeparator()
+                    + meses + " Meses " +  System.lineSeparator()
+                    + dias + " Dias " + System.lineSeparator()
+                    + "Voce tem: " + total + " dias de vida");   
   }
 }
