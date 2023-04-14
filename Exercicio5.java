@@ -4,6 +4,11 @@ import java.util.Random;
 class Main {
   public static void main(String[] args) {
 
+   /*
+   FAÇA UM JOGO ONDE O USUÁRIO TERÁ QUE ADIVINHAR O NÚMERO
+   ALEATÓRIO QUE FOI ESCOLHIDO PELO JAVA.
+   */ 
+    
     // SCANNER
     Scanner sc = new Scanner(System.in);
     Random rand = new Random();
