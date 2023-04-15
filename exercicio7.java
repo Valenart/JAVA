@@ -4,6 +4,13 @@
 
     public static void main(String[] args) {
     
+    /*
+    FAÇA UM PROGRAMA EM JAVA PARA COLETAR DADOS DE QUATRO PESSOAS.
+    O PROGRAMA DEVE SOLICITAR O NOME, A IDADE E O SEXO DE CADA PESSOA E ARMAZENÁ-LOS EM ARRAYS.
+    É NECESSÁRIO GARANTIR QUE OS DADOS INSERIDOS SEJAM VÁLIDOS.
+    AO FINAL, O PROGRAMA DEVE IMPRIMIR OS DADOS DE TODAS AS PESSOAS.  
+    */
+        
     //SCANNER
     Scanner sc = new Scanner(System.in);  
     int i = 0;
