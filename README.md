@@ -8,4 +8,4 @@
 <p>No momento, esses códigos revisam alguns conceitos simples que aprendi na faculdade, mas logo os tornarei melhores/mais eficientes.</p>
 <p>Usei condicionais como: If, Else if e else</p>
 <p>Usei alguns laços de repetições: While, Do-While e For</p>
-
+<p>Começarei a utilizar funções nos códigos</p> 
