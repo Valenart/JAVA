@@ -160,6 +160,7 @@ class Main {
             } 
         } while (i == 1);
         
-        System.out.println("OBRIGADO POR TESTAR O CÓDIGO! =D");   
+        System.out.println("OBRIGADO POR TESTAR O CÓDIGO! =D");
+        sc.close();
   }
 }
