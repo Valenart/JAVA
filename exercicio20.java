@@ -4,11 +4,9 @@ import java.awt.*;
 
 public class ExercicioXX {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // bring
+        /*FAÇA UM PROGRAMA QUE MOSTRE AO USUÁRIO A ALTURA E A LARGURA DA 
+        RESOLUÇÃO USADA NO SEU MONITOR*/
         Dimension size
             = Toolkit.getDefaultToolkit().getScreenSize();
         
